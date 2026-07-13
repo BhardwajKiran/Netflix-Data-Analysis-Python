@@ -14,7 +14,10 @@ Pandas – Data manipulation
 NumPy – Numerical operations
 Matplotlib & Seaborn – Visualizations
 Jupyter Notebook – Interactive analysis
+
+
 🔍 Key Insights
+
 ✅ Q1: What is the most frequent genre?
 Drama is the most frequent genre, appearing in more than 14% of titles among 19 other genres.
 
